@@ -1,4 +1,4 @@
-# Legion del Mal
-Un repositorio para conquistar el mundo
+# GitHub - Fork
 
-Básicamente aprenderemos más sobre Git y GitHub con este proyecto
+Un repositorio para realizar pruebas de fork en GitHub
+
